@@ -1,0 +1,28 @@
+Mon profil
+Actuellement en 2ème année de BTS Systèmes Numériques, option Électronique et Communication, mon désir est de rejoindre votre entreprise pour approfondir mes compétences dans le domaine de la robotique, tout en poursuivant mon parcours en alternance. Après deux années d'expérience en alternance, je suis particulièrement enthousiaste à l'idée de continuer à évoluer dans le monde professionnel. Passionné par l'électronique et l'informatique, votre établissement représente pour moi une opportunité exceptionnelle pour mettre en pratique les compétences acquises au cours de ma formation et de mes recherches personnelles. Fort de ma motivation et de mon engagement, je m'engage à faire preuve d'assiduité tant lors des cours que dans l'accomplissement des missions qui me seront confiées.
+
+Ma formation
+J'ai suivi un BTS au cours duquel j'ai acquis des compétences diversifiées, notamment en programmation avec les langages C++ et Python, en manipulation de FPGA, ainsi qu'en physique avec une spécialisation dans les signaux et l'électricité. De plus, j'ai développé des compétences pratiques telles que la fabrication de cartes électroniques.
+
+J'ai obtenu mon baccalauréat général avec les options SVT (Sciences de la Vie et de la Terre) et NSI (Numérique et Sciences Informatiques), décrochant la mention assez bien au lycée Jean Monnet de Blanquefort. Au cours de ma dernière année en terminale, j'ai décidé de ne pas poursuivre l'option physique.
+
+Mon expérience pro
+Janvier 2019 Stage de Troisième, Base Aerienne 106 de Bordeaux Mérignac
+Exploration de divers métiers au sein de l'armée de l'air.
+
+Juillet 2021 Travail Saisonié, Terre Menuiserie
+Installation de plaques de plâtre, application d'enduit, installation de fenêtres.
+
+Juillet 2022 Travail Saisonié, Château Kirwan
+Participation aux vendanges vertes.
+
+Septembre 2022 - Août 2024 Alternance, Maincare
+Support technique de niveau 1, gestion des applications et des serveurs sous les environnements Linux et Windows.
+
+Mes centres d'interet
+Sport => rugby, moto
+Musique => retro
+Voyages => La Réunion, Espagne, Tunisie, Irlande
+Programmation
+Hardware
+Jeux vidéo
